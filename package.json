@@ -1,0 +1,22 @@
+{
+  "name": "sports-store",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AR Sports Islamabad - Sports Equipment and Custom Sportswear Store",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "preview": "npm --prefix client run preview",
+    "start": "npm --prefix client run dev",
+    "install:client": "npm --prefix client install"
+  },
+  "keywords": [
+    "sports-store",
+    "react",
+    "vite",
+    "threejs",
+    "tailwindcss"
+  ],
+  "author": "AR Sports Islamabad",
+  "license": "UNLICENSED"
+}
